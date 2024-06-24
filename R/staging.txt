@@ -1,0 +1,3 @@
+description: "This is an introductory statistics textbook for students in the biological and environmental sciences with examples using jamovi statistical software."
+github-repo: "bradduthie/stats"
+cover-image: "img/cover.png"
